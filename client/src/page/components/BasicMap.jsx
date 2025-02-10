@@ -87,7 +87,7 @@ const BasicMap = () => {
 
   return (
     <LoadScriptNext
-      googleMapsApiKey={"AIzaSyBK8JylGkdswfRWo-ET7RPikSEkfUbajY4"}
+      googleMapsApiKey={""}
       libraries={["places"]}
     >
       <div className="w-full h-full rounded-xl overflow-hidden">
